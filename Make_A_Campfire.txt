@@ -1,0 +1,16 @@
+Make a Campfire
+
+1. Gather Wood
+  1.1 Wander checking for dry wood
+    1.1.1 Go towards fallen trees
+      1.1.1.1 Don't wander off a cliff
+    1.1.2 Check for Dry Wood
+      1.1.2.1 Touch and weight wood to see if its dry
+2. Check Legality
+3. Place Sticks
+4. Ignite
+  4.1 Add Accelerant
+  4.2 Use Match
+    4.2.1 Take match out
+    4.2.2 Strike match
+    4.2.3 Place burning match in tinder
